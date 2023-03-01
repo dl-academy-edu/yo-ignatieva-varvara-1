@@ -1,0 +1,32 @@
+* {
+ box-sizing: border-box;
+}
+
+body {
+    font-family: 'lato', 'Open Sans';
+    font-weight:400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #1E0606;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1180px;
+    margin:0 auto;
+}
+
+.undotted {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
